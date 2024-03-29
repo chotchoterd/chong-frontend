@@ -17,6 +17,7 @@ function Nav() {
           <li className="mx-3 my-2 sm:my-0 rounded hover:bg-gray-200 py-1 px-3 text-white hover:text-black font-bold"><Link style={{ fontSize: '18px' }} href="#">Services</Link></li>
           <li className="mx-3 my-2 sm:my-0 rounded hover:bg-gray-200 py-1 px-3 text-white hover:text-black font-bold"><Link style={{ fontSize: '18px' }} href="#">About</Link></li>
           <li className="mx-3 my-2 sm:my-0 rounded hover:bg-gray-200 py-1 px-3 text-white hover:text-black font-bold"><Link style={{ fontSize: '18px' }} href="#">Contact</Link></li>
+          <li className="mx-3 my-2 sm:my-0 rounded hover:bg-gray-200 py-1 px-3 text-white hover:text-black rounded py-1 border-b-4"><Link style={{ fontSize: '18px' }} href="#">Log-in</Link></li>
         </ul>
       </div>
     </div>
