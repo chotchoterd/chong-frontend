@@ -8,7 +8,7 @@ function Nav() {
       <div className="sm:flex sm:items-center sm:justify-between">
         <a href="./" className="flex items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse">
           <img src="/food.png" className="h-16" alt="food" />
-          <span className="self-center text-3xl font-semibold whitespace-nowrap dark:text-white text-white">CHONG</span>
+          <span className="self-center text-3xl font-semibold whitespace-nowrap dark:text-white text-white">CHONG FIFI</span>
         </a>
         <ul className="flex  p-4 bg-sky-800">
           <li className="mx-3 rounded hover:bg-gray-200 py-1 px-3 text-white hover:text-black font-bold"><Link style={{ fontSize: '18px' }} href="#">Home</Link></li>
