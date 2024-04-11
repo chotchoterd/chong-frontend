@@ -9,7 +9,7 @@ function Nav() {
     <div className="w-full max-w-screen-xl mx-auto p-3 md:py-3 bg-sky-800 shadow">
       <div className="sm:flex sm:items-center sm:justify-between">
         <a href="./" className="flex items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse">
-          <img src="/food.png" className="h-16" alt="food" />
+          <img src="/fifi.png" className="h-16" alt="food" />
           <span className="self-center text-3xl font-semibold whitespace-nowrap dark:text-white text-white">CHONG FIFI</span>
         </a>
         <ul className="flex flex-col sm:flex-row p-4 bg-sky-800">
